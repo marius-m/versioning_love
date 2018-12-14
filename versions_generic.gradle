@@ -1,0 +1,11 @@
+ext {
+    versions = [
+            minSdk     : 19,
+            debugMinSdk: 26,
+            compileSdk : 28,
+            targetSdk  : 28,
+            buildTools : "28.0.3",
+            androidGradlePlugin: "3.2.1",
+            kotlin: "1.3.10",
+    ]
+}
